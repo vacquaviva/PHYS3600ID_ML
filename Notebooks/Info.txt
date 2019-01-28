@@ -1,0 +1,5 @@
+This folder contains notebooks used in the first few weeks of classes. 
+
+Classes 1-2: Intro to Python, Control Flow, Data Structures
+Classes 3-4: Numpy, basic file I/O
+Class 5: Plotting in Matplotlib
